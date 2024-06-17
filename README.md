@@ -1,3 +1,17 @@
+![Banner](Data/Images/CommonLisp-Exercism-Yacht-Banner.png)
+
+### CommonLisp-Exercism-Yacht
+
+This repository my work for the [Exercism](https://exercism.org/) Common Lisp track.
+
+### Download Command
+`exercism download --track=common-lisp --exercise=yacht`
+
+### Submission Command
+`exercism submit "Exercism\common-lisp\common-lisp\yacht.lisp"`
+
+![Banner](Data/Images/CommonLisp-Exercism-Yacht-Title.png)
+
 # Yacht
 
 Welcome to Yacht on Exercism's Common Lisp Track.
